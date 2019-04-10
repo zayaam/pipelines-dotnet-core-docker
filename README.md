@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/yawersharif/TestProject/_apis/build/status/zayaam.pipelines-dotnet-core-docker?branchName=azure-pipelines)](https://dev.azure.com/yawersharif/TestProject/_build/latest?definitionId=1&branchName=azure-pipelines)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
